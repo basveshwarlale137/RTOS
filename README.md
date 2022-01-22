@@ -1,6 +1,6 @@
-## Logical and Temporal Specification and Correctness..
+## Logical and Temporal Specification and Correctness:
 
-## Real Time Systems
+## Real Time Systems:
 
 - Misinterpretations–Real Time means FAST.
 - Definition:–Real Time Systems are characterized by severe consequences that result if logical as well as timing   correctness  properties  of  the  system are not met...
